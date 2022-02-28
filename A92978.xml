@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters from Col. Gen. Poyntz. Lieu. Gen. Cromwell. [brace] and [brace] Col. Hutchison. Col. Whitt. of the late great victory neere Sherborne in the north, with some other happy successes in the west. Printed according to the originall, together with an order of both Houses for thanksgiving for the same. Die Sabbathi 25. Octob. 1645. Ordered by the Lords assembled in Parliament, that these letters, with the order for the thanksgiving, beforthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92978</idno>
+            <idno type="STC">Wing S2771</idno>
+            <idno type="STC">Thomason E307_10</idno>
+            <idno type="STC">ESTC R200342</idno>
+            <idno type="EEBO-CITATION">99861145</idno>
+            <idno type="PROQUEST">99861145</idno>
+            <idno type="VID">113273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E307[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters from Col. Gen. Poyntz. Lieu. Gen. Cromwell. [brace] and [brace] Col. Hutchison. Col. Whitt. of the late great victory neere Sherborne in the north, with some other happy successes in the west. Printed according to the originall, together with an order of both Houses for thanksgiving for the same. Die Sabbathi 25. Octob. 1645. Ordered by the Lords assembled in Parliament, that these letters, with the order for the thanksgiving, beforthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>Poyntz, Sydenham.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings head in the old Bayley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>27. Octob. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: "White" instead of "Whitt" in title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Sherburn (Yorkshire, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113273:1"/>
+            <pb facs="tcp:113273:1" rendition="simple:additions"/>
+            <p>Severall LETTERS FROM
+<list>
+                  <item>Col. Gen. <hi>Poyntz.</hi>
+                  </item>
+                  <item>Lieu. Gen. <hi>Cromwell.</hi> and</item>
+                  <item>Col. <hi>Hutchiſon.</hi>
+                  </item>
+                  <item>Col. <hi>Whitt.</hi>
+                  </item>
+               </list>
+OF The late great Victory neere <hi>Sherborne</hi> in the North, with ſome other happy ſucceſſes in the Weſt.</p>
+            <p>Printed according to the Originall, to<g ref="char:EOLhyphen"/>gether with an Order of both Houſes for Thankſgiving for the ſame.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi 25. Octob. 1645.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords aſſembled in Parliament, That theſe Letters, with the Order for the Thankſgiving, be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>John Wright</hi> at the Kings head in the old Bayley. 27 Octob. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113273:2"/>
+            <pb facs="tcp:113273:2"/>
+            <head>For his worthy friend Maſter <hi>Bedford</hi> Scout-Maſter-Generall to the Committee of both Kingdoms.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur news is very joyfull, even the De<g ref="char:EOLhyphen"/>feat of a raging Enemy of neer 2000 men under the command of <hi>Digby,</hi> having taken 1000 Foot of mine neere <hi>Ferry-brig,</hi> my Horſe under the command of Colonell <hi>Copley</hi> fell ſuddenly upon them, and not onely releaſed the Foot, but God gave us an abſolute Victory, as the Liſt incloſed will manifeſt. There is not above two or three hundred of them left together, who are fled towards <hi>Skipton,</hi> eight hundred of mine purſuing of them: ſo that I am retreat<g ref="char:EOLhyphen"/>ing to block up the North ſide of <hi>Newarke,</hi> and ſent two Regiments to Colonell <hi>Roſſiter</hi> to aſſiſt him in the block<g ref="char:EOLhyphen"/>ing up the Southſide till I receive further Orders from the Honourable Committee of both Kingdoms. There is no conſiderable Enemy for me to follow. The King being at <hi>Newarke,</hi> and the Garriſon cleared of moſt of their Horſe, it is conceived a very ſeaſonable time to block up the ſame. I want onely their commands. You ſhall further heare from me by the next that offers ſo much happineſſe to</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your friend to ſerve you,
+Sednham Poyntz.</signed> 
+               <dateline>Worſop <date>18. Octob. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:113273:3"/>
+            <head>For the Honourable Colonell <hi>Thornhigh</hi> at the Kings head in the Strand theſe, with my humble ſervice.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SInce your departure hence Partees have been ſent out every night, but the Enemy have drawne into their Gar<g ref="char:EOLhyphen"/>riſons continually, that nothing could be attempted; only on Fryday morning laſt, Corporall Crofts, who is one of my Corporals, with 20 horſe of Captaine Pendocks and mine did fall into <hi>Bridgeford ſuper mount,</hi> whether the Queens Regiment were newly come, and all mounted; they charged through them, routed the whole Regiment, killed eight beſides what were wounded and brought off, 16 pri<g ref="char:EOLhyphen"/>ſoners, 28 horſe, without loſſe of one man. And on Sa<g ref="char:EOLhyphen"/>turday following, my Lieutenant, with 42 men going to ſecure the market, fell into Langar, where the Earle of Northamptons Regiments were drawing out to a Rendez<g ref="char:EOLhyphen"/>vouz, being about 200 horſe: Thirty of our men charged about 80. of them, and routed them, and falling into the Towne with them they killed betwixt twenty and thirty, and a Captaine: they tooke a Major, nine others, and 27 Horſe, without loſſe of one man. I deſire that God may have the praiſe of all, for he is worthy. On Sunday Captaine Pendock and my Lieutenant, with 150 Horſe went to Ekrin to gaine intelligence, and the King quartered at Tuxford, Laxton, and Lymonton with his whole Army, but they wanted men to fall upon any Quarters. I am juſt now ſending a ſmall party to Ekrin.</p>
+            <p>Since I begunne this Letter, I heare that the King quar<g ref="char:EOLhyphen"/>ters this night about Welbeck and Worſop and (as report gives it) he is for the North. Sir, bee pleaſed to procure ſome Armes, if it be poſsible, and ſome Money, for the Country is impoveriſhed, and the Souldiers in great wants. Sir, I have no more, but to aſſure you that I am</p>
+            <closer>
+               <dateline>Nott. <date>Oct. 12. about 8 at night.</date>
+               </dateline>
+               <salute>Sir,</salute> 
+               <signed>Your humble ſervant
+<hi>Cha. Whitt.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I beſeech you preſent my ſervice to Maſter Millington and excuſe my not writing to him.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:113273:3"/>
+            <head>For my Honoured Friend, <hi>Gilbert Millington,</hi> Eſquire.</head>
+            <p>I Know you will be glad to heare in what conditions we are in this place, which makes me trouble your more weighty affaires with this Relation. The King Quarters at this preſent about <hi>Welbecke</hi> and <hi>Worſop</hi>-Mannour, where he hath not above 1500. Horſe, and thoſe ſo tyred and ill Armed that he is able to doe little ſervice with them, during their time of quartering on the South-ſide <hi>Trent</hi> neere us (which hath been for the ſpace of eight daies or thereabouts) we from hence continually Alarmed them, and found them of ſo daun<g ref="char:EOLhyphen"/>ted and dejected ſpirits that twenty of our men charged fifty of them, in a Towne where the Queenes Regiment quartered, and killed and tooke thirty of them, and if the had had more ſtrength they might have brought a<g ref="char:EOLhyphen"/>wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any more; they tooke and brought away with them thirty Horſe with ſome good luggage; another time ſince that 40. of ours charged 120. of them at <hi>Lan<g ref="char:EOLhyphen"/>gar,</hi> routed them, killed neere 20. took 14. one where<g ref="char:EOLhyphen"/>of is a Major who is ſore wounded. I cannot certainly acquaint you what the King intends, the reports are ſome for the reliefe of <hi>Skipton,</hi> others <hi>Cheſter,</hi> and ſome o<g ref="char:EOLhyphen"/>thers ſay that Colonell <hi>Roſſiter</hi> and we ſo viſited their quarters, that they make triall of the other for more ſe<g ref="char:EOLhyphen"/>curity. I have made ſome more diſcoveries of other Country-men, who were engaged in the betraying of the <hi>Trent</hi> Bridges; and they likewiſe teſtifie that Sir <hi>Gervaſe Clifton</hi> was engaged in the Plot againſt the Ca<g ref="char:EOLhyphen"/>ſtle, <hi>Kirke</hi> the chiefe actor is condemned by a Counſell
+<pb n="4" facs="tcp:113273:4"/>of Warre to be hanged on Saterday next; I know, Sir, te<g ref="char:EOLhyphen"/>dious Letters are but a trouble to you, then which I ſhall rather chooſe to break off abruptly, remaining Sir;</p>
+            <closer>
+               <signed>Your obliged friend and humble ſervant,
+<hi>John Hutchinſon.</hi>
+               </signed> 
+               <dateline>Nott. <date>15. Octo. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Honourable <hi>William Lenthall</hi> Eſq. Speaker of the Commons Houſe of Parliament, theſe.</head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>I Gave you an accompt the laſt night of my marching to <hi>Langford-houſe:</hi> whether I came this day, and imme<g ref="char:EOLhyphen"/>diatly ſent them in a Summons; the Governour deſired I ſhould ſend two Officers to treat wtth him, and I ac<g ref="char:EOLhyphen"/>cordingly appointed Lieutenant Colonell <hi>Hewſon,</hi> and Major <hi>Kelſey</hi> thereunto: the Treaty produced the a<g ref="char:EOLhyphen"/>greement which I have here encloſed to you. The Ge<g ref="char:EOLhyphen"/>nerall I heare is advanced as farre weſt as <hi>Columpton,</hi> and hath ſent ſome Horſe and Foot to <hi>Teverton,</hi> it is earneſt<g ref="char:EOLhyphen"/>ly deſired that thoſe Foot might march up to him, it being convenient that we ſtay a day for our Foot that are behind and comming up. I waite your Anſwer to my Letter laſt night from <hi>Wallop,</hi> I ſhall deſire that your pleaſure may be ſpeeded to me, and reſt, Sir;</p>
+            <closer>
+               <signed>Your humble Servvnt <hi>Oliver Cromwell.</hi>
+               </signed> 
+               <dateline>Salisbury <date>Octo. 17. at 12. at night.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:113273:4"/>
+            <opener>
+               <dateline>
+                  <date>17. October 1645.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>Articles of agreement made between Sir <hi>Bartholomew Pell</hi> Knight, and Major <hi>Edmond <g ref="char:V">Ʋ</g>vedale,</hi> Commanders in chief of <hi>Langford</hi> Garriſon, and Liev. Col. <hi>Hewſon,</hi> and Major <hi>Tho. Kelſey</hi> on the behalf of <hi>Oliver Cromwell,</hi> Liev. Generall to Sir <hi>Thomas Fairfax</hi> Army.</p>
+            </argument>
+            <p>FIrſt, That the ſaid Commanders in chiefe of the ſaid Garriſon ſhall ſurrender the ſaid Houſe and Garriſon to the ſaid Lieutenant Generall <hi>Cromwell</hi> to morrow by twelve of the clock, being the eighteenth of October inſtant.</p>
+            <p n="2">
+               <hi>2</hi> That all Armes and Amunition in the ſaid Garriſon be then delivered to the uſe of the Parliament without any im<g ref="char:EOLhyphen"/>beſiling of it.</p>
+            <p n="3">
+               <hi>3</hi> That the ſaid Commanders in chief with <hi>15</hi> Gent. of the ſaid Garriſon ſhall march away with Horſe and Armes, and the private ſouldiers without Armes to <hi>Oxford</hi> within ten daies, and to have a Troop of Horſe for their Guard the firſt day, and a Trumpet, with a Paſſe the reſt of the way.</p>
+            <p n="4">
+               <hi>4</hi> That the reſt of the Gentlemen, not exceeding fifteene more, ſhall march with their Swords and Piſtols, and Horſes, if they can lawfully procure them.</p>
+            <p n="5">
+               <hi>5</hi> That the ſaid Commanders in chief ſhall have a Cart or Waggon allowed them to carry their goods to <hi>Oxford.</hi>
+            </p>
+            <p n="6">
+               <hi>6</hi> That if any Gentleman of the ſaid Garriſon have a de<g ref="char:EOLhyphen"/>ſire to goe to any other Garriſon, or Army of the Kings, they ſhall have Paſſes to that purpoſe.</p>
+            <p n="7">
+               <hi>7</hi> That the goods remaining in the ſaid Garriſon ſhall be delivered to the ſeverall Owners thereof upon demand, with<g ref="char:EOLhyphen"/>in two daies next following the date hereof.</p>
+            <p n="8">
+               <hi>8</hi> That Lieutenant Col. <hi>Bowles</hi> and Major <hi>Fry</hi> be left Hoſtage untill theſe Articles be performed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Iohn Hewſon.</item>
+                     <item>Thomas Kelſey.</item>
+                     <item>Bartho. Pell.</item>
+                     <item>Edm. Uvedale.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_resolution">
+            <pb n="6" facs="tcp:113273:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 21. Octob. 1645.</date>
+               </dateline>
+            </opener>
+            <p>REſolved by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament Aſſembled; That on the next Lords Day publick thankes be given unto Almighty God in all the Churches and Chappels within the Lines of Communication, and on the next Lords Day come Fortnight in all other parts of the King<g ref="char:EOLhyphen"/>dome, for the great bleſſings and ſucceſſe it hath pleaſed God to give the Parliaments Forces in the North, neere <hi>Sherborne</hi> in <hi>Yorkſhire,</hi> and in other parts of the Kingdome: And that the Miniſters be required to ſtirre up their hearts to a hearty thank<g ref="char:EOLhyphen"/>fulneſſe. And that the Lord Maior be deſired to give timely notice hereof to the Miniſters of the ſe<g ref="char:EOLhyphen"/>verall Churches and Chappels within the Lines of Communication.</p>
+            <closer>
+               <signed>Ioh. Brown Cler. Parl.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113273:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
